@@ -1,0 +1,10 @@
+*{padding: 0;margin: 0;box-sizing: border-box;list-style: none;border: none;}
+input,textarea{background-color: #ddd;}
+.gallery::after{clear: both;display: block;content: "";}
+.container{width:920px;margin: auto;}
+.inline-list>li{display: inline-block;}
+.heading{font-size: 32px;font-weight: 600;}
+.title{font-size: 24px;font-weight: 600;}
+.content{font-size: 18px;font-weight: normal;}
+.outline{background-color: #fff;border: 1px solid #aaa;}
+.btn{background-color: #fff;color: #000;min-width: 150px;font-size: 16px;color: #000;font-weight: 600;}
